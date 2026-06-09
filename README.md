@@ -1,18 +1,11 @@
-## Getting Started
+## Poker Blitz
+Just like normal Poker, but fast!
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Every second, everyone's money decreases by a certain amount.
 
-## Folder Structure
+However, don't spend too much time on your turn, as your money will decrease even faster!
 
-The workspace contains two folders by default, where:
+## Images
+<img width="2556" height="1430" alt="image" src="https://github.com/user-attachments/assets/5490ae79-4fe6-4db6-86df-c3e07f9f99f6" />
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+<img width="2551" height="1435" alt="image" src="https://github.com/user-attachments/assets/8ad085bd-90af-4be7-860f-201208103461" />
